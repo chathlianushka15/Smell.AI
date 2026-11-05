@@ -1,0 +1,45 @@
+{
+  "Coffee": {
+    "2-furfurylthiol": "SCc1ccco1",
+    "furfural": "O=Cc1ccco1",
+    "guaiacol": "COc1ccccc1O",
+    "diacetyl": "CC(=O)C(C)=O",
+    "2-methylpyrazine": "Cc1cnccn1",
+    "4-ethylguaiacol": "CCc1ccc(O)c(OC)c1"
+  },
+  "Vanilla candle": {
+    "vanillin": "COc1cc(C=O)ccc1O",
+    "ethyl vanillin": "CCOc1cc(C=O)ccc1O",
+    "coumarin": "O=c1ccc2ccccc2o1",
+    "benzaldehyde": "O=Cc1ccccc1",
+    "benzyl benzoate": "O=C(OCc1ccccc1)c1ccccc1"
+  },
+  "Mint": {
+    "menthol": "CC(C)C1CCC(C)CC1O",
+    "menthone": "CC(C)C1CCC(C)CC1=O",
+    "carvone": "CC1=CCC(CC1=O)C(C)=C",
+    "1,8-cineole": "CC12CCC(CC1)C(O2)(C)C",
+    "pulegone": "CC1CCC(=C(C)C)C(=O)C1"
+  },
+  "Lemon": {
+    "limonene": "CC1=CCC(CC1)C(C)=C",
+    "citral": "CC(C)=CCCC(C)=CC=O",
+    "linalool": "CC(C)=CCCC(C)(O)C=C",
+    "beta-pinene": "CC1(C)C2CCC(=C)C1C2",
+    "gamma-terpinene": "CC1=CCC(=CC1)C(C)C"
+  },
+  "Banana": {
+    "isoamyl acetate": "CC(C)CCOC(C)=O",
+    "isoamyl butyrate": "CCCC(=O)OCCC(C)C",
+    "ethyl butyrate": "CCCC(=O)OCC",
+    "hexyl acetate": "CCCCCCOC(C)=O",
+    "isobutyl acetate": "CC(C)COC(C)=O"
+  },
+  "Wood smoke": {
+    "guaiacol": "COc1ccccc1O",
+    "4-methylguaiacol": "COc1cc(C)ccc1O",
+    "syringol": "COc1cccc(OC)c1O",
+    "phenol": "Oc1ccccc1",
+    "o-cresol": "Cc1ccccc1O"
+  }
+}
